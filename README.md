@@ -6,7 +6,7 @@ This repository includes verified certificates from online courses I've complete
 
 ## ✅ Coursera
 
-- [Python Data Structures – University of Michigan (June 2025)](./coursera/python-data-structures.pdf)
+- [Python Data Structures – University of Michigan (June 2025)](./coursera/PY4E/python-data-structures.pdf)
 
 ## ✅ Maktabkhoone
 
